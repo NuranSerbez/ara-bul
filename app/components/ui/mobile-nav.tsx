@@ -63,11 +63,7 @@ export function MobileNav() {
         </MobileLink>
         <ScrollArea className="my-4 h-[calc(100vh-8rem)] pb-10 pl-6">
           <div className="flex flex-col space-y-3">
-            <Link
-              to="https://www.dotlanth.com"
-              target="_blank"
-              rel="noreferrer"
-            >
+            <Link to="https://www.arabul.com" target="_blank" rel="noreferrer">
               Ara-Bul
             </Link>
             <NavLink to="#">Home</NavLink>
